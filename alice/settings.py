@@ -83,7 +83,7 @@ DATABASES = {
 }
 
 GRAPHENE = {
-    'SCHEMA': 'app.schema.schema' # Where your Graphene schema lives
+    'SCHEMA': 'books.schema.schema' # Where your Graphene schema lives
 }
 
 
